@@ -1,7 +1,7 @@
 ## Snap Class
 
 ## LIVE WEBSITE DEMO 
-[![website Preview](https://snap-class-landing-page-chi.vercel.app/)]
+[[link](https://snap-class-landing-page-chi.vercel.app/)]
 
 SnapClass is an AI-powered attendance management system that automates classroom attendance using facial recognition and voice recognition. 
 The platform provides a web interface for teachers and students,
